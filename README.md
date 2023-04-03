@@ -1,4 +1,4 @@
-# Hackintosh_ventura_dell_5070_sff
+# Hackintosh ventura dell 5070 sff i7 9700
 Dell 5070 i7-9700
 
 Tired of crappytop, are you?
